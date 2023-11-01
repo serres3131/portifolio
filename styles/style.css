@@ -30,7 +30,7 @@ body{
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 16px; /* Adicionado para otimizar o tamanho da fonte para uma tela de notebook */
+    font-size: 16px; 
     font-weight: 600;
     color: var(--cor-secundaria);
     text-decoration: none;
@@ -49,7 +49,7 @@ body{
 .apresentacao{
     padding: 4% 15%;
     display: flex;
-    align-items: flex-start; /* Adicionado para alinhar os itens ao topo */
+    align-items: flex-start; 
     justify-content: space-between;
     gap: 50px;
 }
