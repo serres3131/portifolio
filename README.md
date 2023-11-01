@@ -1,1 +1,1 @@
-# portifolio
+Eu criei um portfólio pessoal utilizando somente HTML e CSS. Este site tem como objetivo apresentar um pouco sobre mim e oferecer links diretos para algumas das minhas redes sociais. link para o site: https://portifolio-kappa-weld.vercel.app/
